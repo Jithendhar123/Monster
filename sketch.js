@@ -15,7 +15,7 @@ function setup(){
     engine = Engine.create();
     world = engine.world;
 
-    box1 = new Box(800,100,70,70);
+    box1 = new Box(700,100,70,70);
     box2 = new Box(800,100,70,70);
     box3 = new Box(800,100,70,70);
     box4 = new Box(800,100,70,70);
